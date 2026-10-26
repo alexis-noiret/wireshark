@@ -143,6 +143,21 @@ tshark -i wlp2s0 -f "port 53" -Y "dns" -c 50 -w capture_dns.pcapng
 
 ---
 
+## 🛠️ Compétences techniques acquises
+
+| Domaine | Compétences |
+|---|---|
+| **Modèle OSI / TCP-IP** | Identifier les couches L2 à L7 dans une trame, lire les en-têtes Ethernet, ARP, IP, TCP et UDP |
+| **Analyse de trafic** | Capturer, filtrer et inspecter des trames avec Wireshark (filtres de capture BPF et filtres d'affichage) |
+| **tshark (CLI)** | Capturer, filtrer, sauvegarder (`.pcapng`) et relire du trafic en ligne de commande, utilisable dans des scripts bash |
+| **Protocoles applicatifs** | Décoder DHCP (séquence DORA), DNS, mDNS, FTP, HTTP, HTTPS/TLS 1.3 et SMB2 |
+| **TCP** | Observer le 3-Way Handshake et les flags SYN / ACK |
+| **Sécurité réseau** | Repérer les données transmises en clair (login/mot de passe FTP, requêtes DNS, HTTP) et justifier le passage à SFTP/FTPS et HTTPS |
+| **Virtualisation & Linux** | Monter un réseau local virtuel sous VMware avec deux VMs (Kali Linux, Debian) |
+| **Documentation** | Documenter une démarche technique et la présenter en soutenance |
+
+---
+
 ## 🎯 Compétences visées
 
 - Administrer et sécuriser les infrastructures réseaux
