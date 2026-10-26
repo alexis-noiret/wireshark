@@ -143,7 +143,7 @@ tshark -i wlp2s0 -f "port 53" -Y "dns" -c 50 -w capture_dns.pcapng
 
 ---
 
-## 🛠️ Compétences techniques acquises
+## 🧠 Compétences démontrées
 
 | Domaine | Compétences |
 |---|---|
@@ -156,9 +156,7 @@ tshark -i wlp2s0 -f "port 53" -Y "dns" -c 50 -w capture_dns.pcapng
 | **Virtualisation & Linux** | Monter un réseau local virtuel sous VMware avec deux VMs (Kali Linux, Debian) |
 | **Documentation** | Documenter une démarche technique et la présenter en soutenance |
 
----
-
-## 🎯 Compétences visées
+### 🎯 Compétences du référentiel visées
 
 - Administrer et sécuriser les infrastructures réseaux
 - Participer à la mesure et à l'analyse du niveau de sécurité
@@ -176,4 +174,9 @@ tshark -i wlp2s0 -f "port 53" -Y "dns" -c 50 -w capture_dns.pcapng
 
 ---
 
-*La Plateforme — Mai 2026*
+## 👤 Auteur
+
+**Alexis Noiret** — Bachelor IT Cybersécurité, La Plateforme
+
+- Portfolio : [alexis-noiret.students-laplateforme.io](https://alexis-noiret.students-laplateforme.io)
+- GitHub : [github.com/alexis-noiret](https://github.com/alexis-noiret)
