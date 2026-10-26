@@ -1,5 +1,11 @@
 # 🦈 Network Sniffing — Wireshark
 
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7)
+![tshark](https://img.shields.io/badge/CLI-tshark-blue)
+![Domain](https://img.shields.io/badge/Domain-Network%20Analysis-green)
+![OSI](https://img.shields.io/badge/Model-OSI-orange)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+
 > Projet réalisé dans le cadre de la formation **La Plateforme** — Mai 2026  
 > Analyse de trafic réseau avec Wireshark et tshark
 
